@@ -24,7 +24,7 @@ The dataset contains restaurant-level information including ratings, number of o
 ## Dashboard Preview
 
 ### Page 1 – Overview
-![Page 1 Overview](Screenshots/Image(2).png)
+![Page 1 Overview](Image(2).png)
 
 ### Page 2 – Analysis
-![Page 2 Analysis](Screenshots/Image(3).png)
+![Page 2 Analysis](Image(3).png)
