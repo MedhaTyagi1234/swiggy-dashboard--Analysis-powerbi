@@ -21,3 +21,10 @@ The dataset contains restaurant-level information including ratings, number of o
 ## Notes
 - Time-based metrics such as YTD/MTD are not included due to the absence of date fields.
 - Revenue-related metrics are intentionally excluded as quantity or order data is not available.
+## Dashboard Preview
+
+### Page 1 – Overview
+![Page 1 Overview](Dashboard_Screenshots/Image(2).png)
+
+### Page 2 – Analysis
+![Page 2 Analysis](Dashboard_Screenshots/Image(3).png)
